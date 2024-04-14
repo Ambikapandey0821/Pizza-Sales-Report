@@ -6,7 +6,7 @@ AREAS FOR IMPROVEMENT, ULTIMATELY EMPOWERING DATADRIVEN DECISION-MAKING TO BOOST
 
 1. RETRIEVE THE TOTAL NUMBER OF ORDERS PLACED.
    
-      select COUNT(order_id) as Total_Orders from [dbo].[orders]
+         select COUNT(order_id) as Total_Orders from [dbo].[orders]
 
 2. Calculate the total revenue generated from pizza sales.
 
